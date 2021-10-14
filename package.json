@@ -2,7 +2,7 @@
   "name": "menup-api",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Kevin García Hincapié",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -66,5 +66,8 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "engines": {
+    "node": "14.16.1"
   }
 }
